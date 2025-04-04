@@ -65,7 +65,6 @@ Key objectives include **risk assessment, consumer behavior analysis, and financ
 - **Purpose:** Identifies **clients with a high revolving balance (>90% of credit limit)**.
 
 ## Tools Used
-- **Power BI** for **data visualization and dashboard creation**.
 - **DAX (Data Analysis Expressions)** for advanced financial calculations.
 - **SQL-based ETL** to preprocess raw data before Power BI analysis.
 
